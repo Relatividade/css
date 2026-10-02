@@ -1,0 +1,24 @@
+h1,
+p {
+        color: #F0F6F6
+}
+
+body {
+          
+        background-size: 1800px 900px; 
+        background-color: #474b24;
+}
+a{
+        position: fixed;   
+            left: 1000px;        
+            top: 590px;
+        color: #2ceaa3;
+        font-size: 20px;
+
+}
+.oto{
+        position: fixed;   
+            left: 1000px;        
+            top: 605px;
+        color: #2ceaa3;
+}

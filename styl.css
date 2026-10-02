@@ -1,0 +1,27 @@
+     container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+        height: 100vh;           
+        }
+p,h1{
+
+    color: #ffffff;
+}
+body{
+    background-color: #2a6041;
+}
+imagem{
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+a{
+        position: fixed;   
+            left: 1000px;        
+            top: 590px;
+        color: #2ceaa3;
+        font-size: 20px;
+
+}
